@@ -1,6 +1,6 @@
 streamlit==0.81.1
 pandas==1.2.2
-numpy==1.16.2
+numpy
 nltk==3.4 
 snowballstemmer==1.2.1
 scikit-learn==0.24.1
