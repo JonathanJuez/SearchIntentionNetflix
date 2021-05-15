@@ -6,4 +6,3 @@ snowballstemmer==1.2.1
 scikit-learn==0.24.1
 ipywidgets == 7.6.3
 setuptools==56.1.0
-tokenize
