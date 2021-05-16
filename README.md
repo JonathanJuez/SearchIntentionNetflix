@@ -8,4 +8,4 @@ Tools used:
 -Heroku
 -Streamlit
 
-Get your recommendation 👉 
+Get your recommendation 👉 https://jjuez-searchintentionnetflix.herokuapp.com/
